@@ -4,7 +4,7 @@ Introduction:
 
 In this project, we built a database of Netflix movies and shows along with their genres and Rotten Tomatoes scores.
 
-The purpose of this project is to demonstrate the first helf of the data pipelining process while collecting data from multiple sources.
+The purpose of this project is to demonstrate the first half of the data pipelining process while collecting data from multiple sources.
 
 
 Data Sources:
